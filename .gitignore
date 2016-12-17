@@ -1,7 +1,9 @@
 /node_modules
+/nbproject
 bundle.js
 npm-debug.log
 
 # IntelliJ
 *.iml
 /.idea
+/nbproject/private/

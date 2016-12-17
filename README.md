@@ -1,4 +1,4 @@
-# React Start Folder
+# Photography portfolio
 
 ###Getting Started###
 
@@ -8,8 +8,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> git clone https://github.com/joelcalheiros/react-start.git
-	> cd react-start
+	> git clone https://github.com/joelcalheiros/joelcalheiros.git
+	> cd joelcalheiros
 	> npm install
 	> npm start
 ```
